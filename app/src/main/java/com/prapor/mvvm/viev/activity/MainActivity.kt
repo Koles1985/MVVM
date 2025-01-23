@@ -1,10 +1,12 @@
-package com.prapor.mvvm
+package com.prapor.mvvm.viev.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.prapor.mvvm.R
+import com.prapor.mvvm.Test
 import io.paperdb.Paper
 
 class MainActivity : AppCompatActivity() {
